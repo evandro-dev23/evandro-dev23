@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @evandro-dev23
-- 👀 I’m interested in data analysis.
-- 🌱 I’m currently learning Python.
-- 💞️ In progress...
-- 📫 In progress..
+Hello, my name is Evandro.
 
-<!---
-evandro-dev23/evandro-dev23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am passionate about technology and the benefits it brings to society.
+
+I am currently studying the Python programming language. My interest is to enter the field of data analysis. I like learning about new technologies and using them to apply solutions. I like organization and I am very detail-oriented and I believe that this has a strong connection with data analysis. You need to be sensitive to the smallest details that the data offers, as these will become powerful information.
