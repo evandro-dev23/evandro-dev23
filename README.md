@@ -1,5 +1,3 @@
-Hello, my name is Evandro.
-
-I am passionate about technology and the benefits it brings to society.
-
-I am currently studying the Python programming language. I like learning about new technologies and using them to apply solutions. I like organization and I am very detail-oriented and I believe that this has a strong connection with data analysis. You need to be sensitive to the smallest details that the data offers, as these will become powerful information.
+Olá, meu nome é Evandro.
+Sou apaixonado por tecnologia e pelos benefícios que entrega a sociedade.
+Atualmente estou estudando a linguagem de programação Python. Gosto de aprender sobre novas tecnologias e utilizá-las para aplicar soluções. Gosto de organização e sou muito detalhista e acredito que isso tem forte ligação com análise de dados. Você precisa estar atento aos mínimos detalhes que os dados oferecem, pois estes se tornarão informações poderosas.
