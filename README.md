@@ -1,6 +1,6 @@
-<h1 style="text-decoration: none;">Evandro Oliveira</h1>
+# Evandro Oliveira
 
-<h2 style="text-decoration: none;">Hello, Devs! 👋</h2>
+**Hello, Devs!** 👋
 
 Atualmente, estou mergulhando no mundo da programação com **Python** 🐍, transformando linhas de código em soluções estratégicas para problemas do dia a dia. 
 
