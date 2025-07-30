@@ -1,7 +1,7 @@
 # Evandro Oliveira
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/QWyZ0gl_H84AAAAd/mad-cat-fr-lol.gif" width="400">
+  <img src="https://media1.tenor.com/m/QWyZ0gl_H84AAAAd/mad-cat-fr-lol.gif" width="400" height="300" alt="Descrição do GIF">
 </div>
 
 **Hello, Devs!** 👋
