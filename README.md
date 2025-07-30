@@ -1,6 +1,8 @@
 # Evandro Oliveira
 
-![Meu gif GIF](https://tenor.com/fMpLjhtXUcs.gif)
+<div align="center">
+  <img src="https://tenor.com/fMpLjhtXUcs.gif" width="400">
+</div>
 
 **Hello, Devs!** 👋
 
