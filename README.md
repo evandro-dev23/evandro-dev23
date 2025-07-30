@@ -1,5 +1,7 @@
 # Evandro Oliveira
 
+![Meu gif GIF](https://tenor.com/fMpLjhtXUcs.gif)
+
 **Hello, Devs!** 👋
 
 Atualmente, estou mergulhando no mundo da programação com **Python** 🐍, transformando linhas de código em soluções estratégicas para problemas do dia a dia. 
