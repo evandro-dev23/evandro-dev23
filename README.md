@@ -1,6 +1,6 @@
-# Evandro Oliveira
+<h1 style="text-decoration: none;">Evandro Oliveira</h1>
 
-## Hello, Devs! 👋
+<h2 style="text-decoration: none;">Hello, Devs! 👋</h2>
 
 Atualmente, estou mergulhando no mundo da programação com **Python** 🐍, transformando linhas de código em soluções estratégicas para problemas do dia a dia. 
 
@@ -13,3 +13,7 @@ Atualmente, estou mergulhando no mundo da programação com **Python** 🐍, tra
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## Contatos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evandro-oliveira-andrade/)
